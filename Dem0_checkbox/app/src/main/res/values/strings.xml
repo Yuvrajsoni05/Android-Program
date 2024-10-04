@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dem0_checkbox</string>
+    <string name="java">Java</string>
+    <string name="Python">Python</string>
+    <string name="asp">Asp</string>
+    <string name="BigData">Big_data</string>
+</resources>
